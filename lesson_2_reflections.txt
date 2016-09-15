@@ -6,4 +6,8 @@ How is the staging area different from the working directory and the repository?
 
  It's a temporary area where you can prepare for your commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+ You can put all the relevant files in the staging area per logical change.
+
 
