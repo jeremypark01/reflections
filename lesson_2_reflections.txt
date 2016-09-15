@@ -2,3 +2,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
  The repository is empty. You should commit your files to be tracked by git.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+ It's a temporary area where you can prepare for your commit.
+
+
