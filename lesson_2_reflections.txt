@@ -10,4 +10,12 @@ How can you use the staging area to make sure you have one commit per logical ch
 
  You can put all the relevant files in the staging area per logical change.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+ Branches are useful when you experiment new features. Or they use a branch to keep the current code for the final product from be influenced by the changes on the master branch.
+
+How do the diagrams help you visualize the branch structure?
+
+ A diagram is very intuitive to understand the branch structure.
+
 
